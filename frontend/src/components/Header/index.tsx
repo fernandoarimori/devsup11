@@ -9,7 +9,7 @@ function Header() {
         <h1>SALES WITH SMS</h1>
         <p>
           Desenvolvido por
-          <a href="https://github.com/fernandoarimori">github.com/fernandoarimori</a>
+          <a href="https://github.com/fernandoarimori"> github.com/fernandoarimori</a>
         </p>
       </div>
     </header>
