@@ -1,1 +1,1 @@
-export const BASE_URL = import.meta.env.VITE_BACKEND_URL ?? "https://sales-with-twillio.herokuapp.com/";
+export const BASE_URL = "https://sales-with-twillio.herokuapp.com";
